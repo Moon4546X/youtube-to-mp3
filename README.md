@@ -1,4 +1,15 @@
 # youtube-to-mp3
+
+
+YouTube to MP3 Converter
+
+This project is a simple tool for converting YouTube videos into MP3 audio files. It provides a user-friendly interface for entering YouTube video URLs and downloading the audio content in high-quality MP3 format. Built with Python and utilizing the pytube and pydub libraries, this converter offers a straightforward solution for extracting and saving audio from YouTube videos. Ideal for users who want to listen to their favorite YouTube content offline without the need for video playback.
+
+
+
+
+
+
 How to install -
 
 
