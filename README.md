@@ -7,6 +7,7 @@ first install ffmpeg library using terminal (admin) -
              choco install ffmpeg
 after running the above command restart terminal then run the following commands
 
+
 1
 
                 choco install ffmpeg
