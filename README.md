@@ -17,6 +17,9 @@ after running the above command restart terminal then run the following commands
 
                 ffmpeg -version
 once this is installed successfully open the "Youtube to Mp3 - APSoftech.py" in text editor and install Dependencies using the following commands 
+
+
+
 1
 
                 pip install pytube pydub
